@@ -1,5 +1,6 @@
 # Using technologies
 
+- Vite
 - React
 - Typescript
 - AntDesign
